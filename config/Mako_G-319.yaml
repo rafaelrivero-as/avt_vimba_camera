@@ -40,7 +40,7 @@
     feature/ExposureAutoAdjustTol: 5
     feature/ExposureAutoAlg: Mean
     feature/ExposureAutoMax: 499997
-    feature/ExposureAutoMin: 29
+    feature/ExposureAutoMin: 50000
     feature/ExposureAutoOutliers: 0
     feature/ExposureAutoRate: 100
     feature/ExposureAutoTarget: 50
@@ -79,7 +79,7 @@
     feature/LUTSelector: LUT1
     feature/LUTValue: 4095
     feature/MulticastEnable: false
-    feature/MulticastIPAddress: 823132143
+    feature/MulticastIPAddress: 4026470193
     feature/OffsetX: 0
     feature/OffsetY: 0
     feature/PixelFormat: BayerRG8
